@@ -55,9 +55,6 @@ span:active {
   color: rgb(0, 165, 0);
 }
 
-.guessFailMessagecContainer {
-}
-
 .guessMessage {
   width: 200px;
   margin: auto;
